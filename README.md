@@ -22,12 +22,13 @@ This project loads the Titanic dataset, inspects data quality, analyzes survival
 - 3rd class had the largest passenger count but the lowest survival proportion
 
 ## Project Structure
-
+```bash
 Titanic dataset EDA/
-├── titanic_eda.py
-├── titanic_eda_plots.png
-├── requirements.txt
-└── README.md
+    ├── titanic_eda.py
+    ├── titanic_eda_plots.png
+    ├── requirements.txt
+    └── README.md
+```
 
 ## Requirements
 
